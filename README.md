@@ -1,2 +1,2 @@
 # sbt
-sbt docker images
+The code is located at https://github.com/xiaobailong/sbt.
